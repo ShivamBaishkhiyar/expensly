@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "347546783639",
+    "firebase_url": "https://expensly-d20d3-default-rtdb.firebaseio.com",
+    "project_id": "expensly-d20d3",
+    "storage_bucket": "expensly-d20d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347546783639:android:c158fed341985b9af17ed2",
+        "android_client_info": {
+          "package_name": "com.expensly.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347546783639-kukulka36cjlq6on85smsd26tcajnfm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcYFCdylNCYbJUI3ZEnsm6WIuV2ipBVcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347546783639-kukulka36cjlq6on85smsd26tcajnfm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
